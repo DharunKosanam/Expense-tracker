@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1740204837203,
+      "tag": "0000_military_moon_knight",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1740206381959,
+      "tag": "0001_busy_venus",
+      "breakpoints": true
+    }
+  ]
+}
